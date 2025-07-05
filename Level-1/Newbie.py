@@ -1,1 +1,2 @@
-print ("hello world")#fetch data
+#print "hello world terminal testing"
+print ("hello world!")
