@@ -10,11 +10,11 @@ echo 'building example'
 }
 stage('deploy')
 steps{
-echo 'building example'
+echo 'deployement example'
 }
 stage('test')
 steps{
-echo 'building example'
+echo 'testing example'
 }
 
 }
